@@ -1,6 +1,11 @@
-This is my first project！
-# Hi, I'm 陈羽生! Welcome to this project！
-# IMC's full name is Intelligent Medicine Cabinet.👋
+# 项目部分展示
+[](.\picture\pic1.png)
 
-## Appendix
-In this project, I used the springboot + vue + mysql + HTML,CSS,JS + elementUI etc.
+[](.\picture\pic2.png)
+
+[](.\picture\pic3.png)
+
+[](.\picture\pic4.png)
+
+[](.\picture\pic5.png)
+
